@@ -31,10 +31,3 @@ To run this project locally, follow these steps:
 
 The "House Price Prediction" project provides a practical solution for estimating housing prices based on various features. By leveraging data collection, preprocessing, visualization, XGBoost regression modeling, and model evaluation, this project offers a comprehensive approach to addressing the price prediction task. The project utilizes the "California Housing" dataset from Scikit-learn, ensuring a reliable and widely accessible data source.
 
-## License
-
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-
-## Acknowledgements
-
-This project is made possible by the contributions of the open-source community and the powerful libraries it provides, including NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, and XGBoost. I extend my gratitude to the developers and maintainers of these libraries for their valuable work. In addition, the mentor Siddhardan, visit his channel here : https://www.youtube.com/@Siddhardhan
